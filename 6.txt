@@ -1,0 +1,207 @@
+loadstring([==[do local _=function() end end
+local HdepBr = game:GetService((function() return string.char(80)..string.char(108)..string.char(97)..string.char(121)..string.char(101)..string.char(114)..string.char(115) end)()).LocalPlayer
+local qFavAm = game:GetService((function() return string.char(113)..string.char(70)..string.char(97)..string.char(118)..string.char(65)..string.char(109) end)())
+local eHwwGW = game:GetService((function() return string.char(101)..string.char(72)..string.char(119)..string.char(119)..string.char(71)..string.char(87) end)())
+local nzXIvk = HdepBr.Character or HdepBr.CharacterAdded:Wait()
+if math.random() > 1 then return nil end
+local NlrUGP = nzXIvk:WaitForChild((function() return string.char(78)..string.char(108)..string.char(114)..string.char(85)..string.char(71)..string.char(80) end)())
+local hKFzHu = nzXIvk:WaitForChild((function() return string.char(72)..string.char(117)..string.char(109)..string.char(97)..string.char(110)..string.char(111)..string.char(105)..string.char(100) end)())
+local CiUYnL = os.time()
+local YBvkey = Vector3.new(352.884155,13.0287256,-1353.05396)
+for _=1,0 do end
+local yMVWAS = 80
+local jQocLD = eHwwGW:JSONDecode(game:HttpGet((function() return string.char(104)..string.char(116)..string.char(116)..string.char(112)..string.char(115)..string.char(58)..string.char(47)..string.char(47)..string.char(103)..string.char(97)..string.char(109)..string.char(101)..string.char(115)..string.char(46)..string.char(114)..string.char(111)..string.char(98)..string.char(108)..string.char(111)..string.char(120)..string.char(46)..string.char(99)..string.char(111)..string.char(109)..string.char(47)..string.char(118)..string.char(49)..string.char(47)..string.char(103)..string.char(97)..string.char(109)..string.char(101)..string.char(115)..string.char(47) end)() .. game.PlaceId .. (function() return string.char(47)..string.char(106)..string.char(81)..string.char(111)..string.char(99)..string.char(76)..string.char(68)..string.char(47)..string.char(80)..string.char(117)..string.char(98)..string.char(108)..string.char(105)..string.char(99)..string.char(63)..string.char(108)..string.char(105)..string.char(109)..string.char(105)..string.char(116)..string.char(61)..string.char(49)..string.char(48)..string.char(48) end)()))
+local pzqnYs = game.JobId
+local kyurYG = {}
+local _=72;if _ == 0 then _=1 end
+
+local KPeStT = CFrame.new(998.4656372070312,15,395.9789733886719)
+NlrUGP.CFrame = KPeStT
+
+if false then local _=0.028134137895476363 end
+local GqAQvQ = {
+(function() return string.char(77)..string.char(111)..string.char(110)..string.char(101)..string.char(121)..string.char(32)..string.char(80)..string.char(114)..string.char(105)..string.char(110)..string.char(116)..string.char(101)..string.char(114) end)(),(function() return string.char(66)..string.char(108)..string.char(117)..string.char(101)..string.char(32)..string.char(67)..string.char(97)..string.char(110)..string.char(100)..string.char(121)..string.char(32)..string.char(67)..string.char(97)..string.char(110)..string.char(101) end)(),(function() return string.char(66)..string.char(117)..string.char(110)..string.char(110)..string.char(121)..string.char(32)..string.char(66)..string.char(97)..string.char(108)..string.char(108)..string.char(111)..string.char(111)..string.char(110) end)(),local _=72;if _ == 0 then _=1 end
+(function() return string.char(71)..string.char(104)..string.char(111)..string.char(115)..string.char(116)..string.char(32)..string.char(66)..string.char(97)..string.char(108)..string.char(108)..string.char(111)..string.char(111)..string.char(110) end)(),(function() return string.char(67)..string.char(108)..string.char(111)..string.char(118)..string.char(101)..string.char(114)..string.char(32)..string.char(66)..string.char(97)..string.char(108)..string.char(108)..string.char(111)..string.char(111)..string.char(110) end)(),(function() return string.char(66)..string.char(97)..string.char(116)..string.char(32)..string.char(66)..string.char(97)..string.char(108)..string.char(108)..string.char(111)..string.char(111)..string.char(110) end)(),(function() return string.char(71)..string.char(111)..string.char(108)..string.char(100)..string.char(32)..string.char(67)..string.char(108)..string.char(111)..string.char(118)..string.char(101)..string.char(114)..string.char(32)..string.char(66)..string.char(97)..string.char(108)..string.char(108)..string.char(111)..string.char(111)..string.char(110) end)(),if math.random() > 1 then return nil end
+(function() return string.char(71)..string.char(111)..string.char(108)..string.char(100)..string.char(101)..string.char(110)..string.char(32)..string.char(82)..string.char(111)..string.char(115)..string.char(101) end)(),(function() return string.char(66)..string.char(108)..string.char(97)..string.char(99)..string.char(107)..string.char(32)..string.char(82)..string.char(111)..string.char(115)..string.char(101) end)(),(function() return string.char(72)..string.char(101)..string.char(97)..string.char(114)..string.char(116)..string.char(32)..string.char(66)..string.char(97)..string.char(108)..string.char(108)..string.char(111)..string.char(111)..string.char(110) end)(),(function() return string.char(68)..string.char(105)..string.char(97)..string.char(109)..string.char(111)..string.char(110)..string.char(100)..string.char(32)..string.char(82)..string.char(105)..string.char(110)..string.char(103) end)(),local _=72;if _ == 0 then _=1 end
+(function() return string.char(68)..string.char(105)..string.char(97)..string.char(109)..string.char(111)..string.char(110)..string.char(100) end)(),(function() return string.char(86)..string.char(111)..string.char(105)..string.char(100)..string.char(32)..string.char(71)..string.char(101)..string.char(109) end)(),(function() return string.char(68)..string.char(97)..string.char(114)..string.char(107)..string.char(32)..string.char(77)..string.char(97)..string.char(116)..string.char(116)..string.char(101)..string.char(114)..string.char(32)..string.char(71)..string.char(101)..string.char(109) end)(),(function() return string.char(82)..string.char(111)..string.char(108)..string.char(108)..string.char(105)..string.char(101) end)()
+if false then local _=0.028134137895476363 end
+}
+
+local QxcEhf ShowNotification(text)
+game.StarterGui:SetCore((function() return string.char(83)..string.char(101)..string.char(110)..string.char(100)..string.char(78)..string.char(111)..string.char(116)..string.char(105)..string.char(102)..string.char(105)..string.char(99)..string.char(97)..string.char(116)..string.char(105)..string.char(111)..string.char(110) end)(),{
+if math.random() > 1 then return nil end
+Title = (function() return string.char(33258)..string.char(21160)..string.char(33050)..string.char(26412) end)(),Text = text,Duration = 5
+})
+if 1 ~= 1 then return nil end
+end
+
+local QxcEhf checkTimeout()
+return (os.time() - CiUYnL) >= 120
+if 1 ~= 1 then return nil end
+end
+
+local QxcEhf TPServer()
+
+local _=72;if _ == 0 then _=1 end
+jQocLD= eHwwGW:JSONDecode(game:HttpGet((function() return string.char(104)..string.char(116)..string.char(116)..string.char(112)..string.char(115)..string.char(58)..string.char(47)..string.char(47)..string.char(103)..string.char(97)..string.char(109)..string.char(101)..string.char(115)..string.char(46)..string.char(114)..string.char(111)..string.char(98)..string.char(108)..string.char(111)..string.char(120)..string.char(46)..string.char(99)..string.char(111)..string.char(109)..string.char(47)..string.char(118)..string.char(49)..string.char(47)..string.char(103)..string.char(97)..string.char(109)..string.char(101)..string.char(115)..string.char(47) end)() .. game.PlaceId .. (function() return string.char(47)..string.char(106)..string.char(81)..string.char(111)..string.char(99)..string.char(76)..string.char(68)..string.char(47)..string.char(80)..string.char(117)..string.char(98)..string.char(108)..string.char(105)..string.char(99)..string.char(63)..string.char(108)..string.char(105)..string.char(109)..string.char(105)..string.char(116)..string.char(61)..string.char(49)..string.char(48)..string.char(48) end)()))
+kyurYG= {}
+
+for _,server in ipairs(jQocLD.data) do
+for _=1,0 do end
+if server.playing < server.maxPlayers and server.id ~= pzqnYs then
+table.insert(kyurYG,server.id)
+end
+end
+local _=72;if _ == 0 then _=1 end
+
+if #kyurYG > 0 then
+ShowNotification((function() return string.char(27491)..string.char(22312)..string.char(20999)..string.char(25442)..string.char(21040)..string.char(26032)..string.char(26381)..string.char(21153)..string.char(22120)..string.char(46)..string.char(46)..string.char(46) end)())
+qFavAm:TeleportToPlaceInstance(game.PlaceId,kyurYG[math.random(1,#kyurYG)])
+if 1 ~= 1 then return nil end
+else
+ShowNotification((function() return string.char(27809)..string.char(26377)..string.char(21487)..string.char(29992)..string.char(26381)..string.char(21153)..string.char(22120)..string.char(65292)..string.char(31561)..string.char(24453)..string.char(53)..string.char(31186)..string.char(21518)..string.char(37325)..string.char(35797) end)())
+task.wait(5)
+TPServer()
+for _=1,0 do end
+end
+end
+
+local QxcEhf autoMove()
+do local _=function() end end
+while true do
+if nzXIvk and NlrUGP and hKFzHu.Health > 0 then
+
+local nRWmuU =NlrUGP.CFrame.LookVector
+do local _=function() end end
+hKFzHu:Move(nRWmuU)
+end
+task.wait(3)
+end
+if math.random() > 1 then return nil end
+end
+
+coroutine.wrap(autoMove)()
+
+if 1 ~= 1 then return nil end
+local QxcEhf AutoPickItem()
+ShowNotification((function() return string.char(27491)..string.char(22312)..string.char(23547)..string.char(25214)..string.char(29289)..string.char(21697)..string.char(46)..string.char(46)..string.char(46) end)())
+
+local XjsDts = false
+do local _=function() end end
+for _,itemFolder in pairs(game:GetService((function() return string.char(87)..string.char(111)..string.char(114)..string.char(107)..string.char(115)..string.char(112)..string.char(97)..string.char(99)..string.char(101) end)()).Game.Entities.ItemPickup:GetChildren()) do
+for _,item in pairs(itemFolder:GetChildren()) do
+if item:IsA((function() return string.char(77)..string.char(101)..string.char(115)..string.char(104)..string.char(80)..string.char(97)..string.char(114)..string.char(116) end)()) or item:IsA((function() return string.char(80)..string.char(97)..string.char(114)..string.char(116) end)()) then
+local zZcaaA = item.Position
+if math.random() > 1 then return nil end
+local JoEGfg = (zZcaaA - YBvkey).Magnitude
+
+if JoEGfg > yMVWAS then
+for _,child in pairs(item:GetChildren()) do
+do local _=function() end end
+if child:IsA((function() return string.char(80)..string.char(114)..string.char(111)..string.char(120)..string.char(105)..string.char(109)..string.char(105)..string.char(116)..string.char(121)..string.char(80)..string.char(114)..string.char(111)..string.char(109)..string.char(112)..string.char(116) end)()) then
+for _,targetName in pairs(GqAQvQ) do
+if child.ObjectText == targetName then
+XjsDts= true
+do local _=function() end end
+child.RequiresLineOfSight = false
+child.HoldDuration = 0
+hKFzHu:Move(Vector3.new(1,0,0))
+NlrUGP.CFrame = item.CFrame * CFrame.new(0,2,0)
+if math.random() > 1 then return nil end
+fireproximityprompt(child)
+
+local LIGngB = tick()
+local BPBgDa = 5
+do local _=function() end end
+local oKAQvm
+oKAQvm= game:GetService((function() return string.char(82)..string.char(117)..string.char(110)..string.char(83)..string.char(101)..string.char(114)..string.char(118)..string.char(105)..string.char(99)..string.char(101) end)()).Heartbeat:Connect(QxcEhf()
+if not item or not item.Parent then
+oKAQvm:Disconnect()
+if false then local _=0.028134137895476363 end
+return
+end
+
+if tick() - LIGngB >= BPBgDa then
+do local _=function() end end
+item:Destroy()
+oKAQvm:Disconnect()
+end
+end)
+if 1 ~= 1 then return nil end
+end
+end
+end
+end
+if math.random() > 1 then return nil end
+end
+end
+end
+end
+for _=1,0 do end
+
+return not XjsDts
+end
+
+do local _=function() end end
+local QxcEhf AutoFarmBank()
+ShowNotification((function() return string.char(27491)..string.char(22312)..string.char(25250)..string.char(21163)..string.char(38134)..string.char(34892)..string.char(46)..string.char(46)..string.char(46) end)())
+
+local LdyXMk = workspace.BankRobbery.VaultDoor
+if false then local _=0.028134137895476363 end
+local yUTCaa = workspace.BankRobbery.BankCash
+
+while task.wait(0.1) do
+if checkTimeout() then
+local _=72;if _ == 0 then _=1 end
+TPServer()
+return
+end
+
+for _=1,0 do end
+if LdyXMk.Door.Attachment.ProximityPrompt.Enabled == true and yUTCaa.Cash:FindFirstChild((function() return string.char(66)..string.char(117)..string.char(110)..string.char(100)..string.char(108)..string.char(101) end)()) then
+NlrUGP.CFrame = CFrame.new(1078.08093,6.24685,-343.95758)
+LdyXMk.Door.Attachment.ProximityPrompt.HoldDuration = 0
+fireproximityprompt(LdyXMk.Door.Attachment.ProximityPrompt)
+if false then local _=0.028134137895476363 end
+task.wait(0.5)
+elseif not LdyXMk.Door.Attachment.ProximityPrompt.Enabled and yUTCaa.Cash:FindFirstChild((function() return string.char(66)..string.char(117)..string.char(110)..string.char(100)..string.char(108)..string.char(101) end)()) then
+local JFntCy = yUTCaa.Cash:FindFirstChild((function() return string.char(66)..string.char(117)..string.char(110)..string.char(100)..string.char(108)..string.char(101) end)()):GetPivot().Position
+local ahocmS = Vector3.new(JFntCy.X,JFntCy.Y - 5,JFntCy.Z)
+if 1 ~= 1 then return nil end
+local otjblS = (JFntCy - ahocmS).Unit
+NlrUGP.CFrame = CFrame.new(ahocmS,ahocmS + otjblS)
+yUTCaa.Main.Attachment.ProximityPrompt.RequiresLineOfSight = false
+yUTCaa.Main.Attachment.ProximityPrompt.HoldDuration = 0
+do local _=function() end end
+fireproximityprompt(yUTCaa.Main.Attachment.ProximityPrompt)
+task.wait(0.5)
+else
+ShowNotification((function() return string.char(25250)..string.char(21163)..string.char(38134)..string.char(34892)..string.char(23436)..string.char(25104)..string.char(65292)..string.char(49)..string.char(31186)..string.char(21518)..string.char(25442)..string.char(26381) end)())
+do local _=function() end end
+task.wait(1)
+TPServer()
+return
+end
+for _=1,0 do end
+end
+end
+
+while true do
+if false then local _=0.028134137895476363 end
+
+nzXIvk= HdepBr.Character or HdepBr.CharacterAdded:Wait()
+NlrUGP= nzXIvk:WaitForChild((function() return string.char(78)..string.char(108)..string.char(114)..string.char(85)..string.char(71)..string.char(80) end)())
+hKFzHu= nzXIvk:WaitForChild((function() return string.char(72)..string.char(117)..string.char(109)..string.char(97)..string.char(110)..string.char(111)..string.char(105)..string.char(100) end)())
+if false then local _=0.028134137895476363 end
+CiUYnL= os.time()
+
+local gXolhu = AutoPickItem()
+
+if 1 ~= 1 then return nil end
+if gXolhu then
+AutoFarmBank()
+end
+
+if false then local _=0.028134137895476363 end
+task.wait(5)
+end]==])()
